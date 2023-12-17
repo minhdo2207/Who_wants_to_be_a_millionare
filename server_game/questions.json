@@ -1,0 +1,57 @@
+[
+    {
+        "question": "Tên đầy đủ của ngày 20/11?",
+        "answers": [
+            "A. Nhà giáo Việt Nam",
+            "B. Hiến chương Nhà giáo Việt Nam",
+            "C. Hiến chương Nhà giáo",
+            "D. Hiến chương Nhà giáo 20/11"
+        ],
+        "correctAnswer": 1,
+        "hard": 1
+    },
+    {
+        "question": "What is your name 2?",
+        "answers": [
+            "BinhCN 2",
+            "HoangDT 2",
+            "DuyetVN 2",
+            "ChungOP 2"
+        ],
+        "correctAnswer": 1,
+        "hard": 1
+    },
+    {
+        "question": "What is your name 3?",
+        "answers": [
+            "BinhCN 3",
+            "HoangDT 3",
+            "DuyetVN 3",
+            "ChungOP 3"
+        ],
+        "correctAnswer": 1,
+        "hard": 2
+    },
+    {
+        "question": "What is your name 4?",
+        "answers": [
+            "BinhCN 4",
+            "HoangDT 4",
+            "DuyetVN 4",
+            "ChungOP 4"
+        ],
+        "correctAnswer": 1,
+        "hard": 2
+    },
+    {
+        "question": "What is your name 5?",
+        "answers": [
+            "BinhCN 5",
+            "HoangDT 5",
+            "DuyetVN 5",
+            "ChungOP 5"
+        ],
+        "correctAnswer": 1,
+        "hard": 1
+    }
+]

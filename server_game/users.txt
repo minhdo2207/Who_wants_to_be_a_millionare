@@ -1,0 +1,4 @@
+user2,123,15,Silver
+admin,admin,0,Bronze
+tmp2,123,0,Bronze
+minhdt,123,0,Bronze
