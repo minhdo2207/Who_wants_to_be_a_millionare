@@ -14,9 +14,9 @@
 
 #define PORT 8081
 
-#define _QUESTION_FILE  "/home/repo/capstoneproject/server_game/questions.json"
-#define _USER_FILE  "/home/repo/capstoneproject/server_game/users.txt"
-#define _HISTORY_PATH  "/home/repo/capstoneproject/server_game/"
+#define _QUESTION_FILE  "/home/server_game/questions.json"
+#define _USER_FILE  "/home/server_game/users.txt"
+#define _HISTORY_PATH  "/home/server_game/"
 
 class MyServer : public QObject
 {
