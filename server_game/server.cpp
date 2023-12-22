@@ -123,7 +123,10 @@ void MyServer::handle(QTcpSocket* socket, QString message){
             this->socketMap[u.username] = socket;
             User myUser = getByUsername(u.username);
             send(socket, "LOGIN_SUCCESS", myUser.score + "|" + myUser.rank);
+//            User user = getByUsername(u.username);
             qDebug() << "User " << u.username << " online...";
+//            if(user.username != "-1")
+//                onlines[user.username] = user;
         } else {
             send(socket, "LOGIN_FAIL", user);
 
