@@ -46,7 +46,17 @@
 
 - C programming knowledge
 - Qt framework installed
-- Git
+```bash
+sudo apt update
+sudo apt install qt5-default
+sudo apt install qtcreator
+```
+- Git installed
+```bash
+sudo apt update
+sudo apt install git
+```
+
 ## Usecase
 ![usecase](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/usecase_diagram.png)
 ## Class Diagram
