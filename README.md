@@ -44,8 +44,8 @@
 
 ## Requirements
 
-- C programming knowledge
-- Qt framework installed
+-Linux enviroment
+-Qt framework installed
 ```bash
 sudo apt update
 sudo apt install qt5-default
