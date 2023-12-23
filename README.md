@@ -65,7 +65,7 @@ sudo apt install git
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/minhdo2207/Who_wants_to_be_a_millionare
+   git clone https://github.com/minhdo2207/Who_wants_to_be_a_millionare
    ```
 2. **Open QtCreator:**
    ```bash
