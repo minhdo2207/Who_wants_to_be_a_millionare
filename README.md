@@ -24,13 +24,7 @@
   - Players are ranked based on the number of winning/losing games.
   - Each winning game awards 1 rank point, while each losing game deducts 1 rank point.
   - Players rank up after accumulating every 10 rank points.
-  - Ranking Tiers:
-    - 0: Bronze Medal
-    - 10: Silver
-    - 20: Gold
-    - 30: Platinum
-    - 40+: Master
-
+  - Ranking Tiers:Bronze,Silver,Gold,Platinum,Master
 ### Player's History
 
 - **Game History:**
@@ -73,6 +67,12 @@ sudo apt install git
    ```bash
    https://github.com/minhdo2207/Who_wants_to_be_a_millionare
    ```
+2. **Open QtCreator:**
+   ```bash
+   qtcreator
+   ```
+3. **Run the program**:
+Add the project files to QtCreator with the extension .pro at server and client to run.
 
 ## Contributing
 
