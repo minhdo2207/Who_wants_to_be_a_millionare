@@ -1,6 +1,6 @@
 # Who Wants to Be a Millionaire
 
-"Who Wants to Be a Millionaire" is an interactive quiz game developed in C and Qt, featuring single-player and Player vs. Player (PvP) modes. The game structure involves answering progressively difficult multiple-choice questions, with increasing prize levels. Additionally, the project supports rankings, tracking players' history, and employs a client-server architecture.
+"Who Wants to Be a Millionaire" is an interactive quiz game developed in C++ and Qt, featuring single-player and Player vs. Player (PvP) modes. The game structure involves answering progressively difficult multiple-choice questions, with increasing prize levels. Additionally, the project supports rankings, tracking players' history, and employs a client-server architecture.
 
 ## Features
 
