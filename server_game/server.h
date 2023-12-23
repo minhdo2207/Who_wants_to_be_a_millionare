@@ -14,9 +14,9 @@
 
 #define PORT 8081
 
-#define _QUESTION_FILE  "/home/server_game/questions.json"
-#define _USER_FILE  "/home/server_game/users.txt"
-#define _HISTORY_PATH  "/home/server_game/"
+#define _QUESTION_FILE  "/home/Who_wants_to_be_a_millionare/server_game/questions.json"
+#define _USER_FILE  "/home/Who_wants_to_be_a_millionare/server_game/users.txt"
+#define _HISTORY_PATH  "/home/Who_wants_to_be_a_millionare/server_game/"
 
 class MyServer : public QObject
 {
