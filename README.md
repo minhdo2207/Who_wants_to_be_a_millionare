@@ -1,6 +1,6 @@
 # Who Wants to Be a Millionaire
 
-"Who Wants to Be a Millionaire" is an interactive quiz game developed in C and Qt, featuring single-player and Player vs. Player (PvP) modes. The game structure involves answering progressively difficult multiple-choice questions, with increasing prize levels. Additionally, the project supports rankings, tracking players' history, and employs a client-server architecture.
+"Who Wants to Be a Millionaire" is an interactive quiz game developed in C++ and Qt, featuring single-player and Player vs. Player (PvP) modes. The game structure involves answering progressively difficult multiple-choice questions, with increasing prize levels. Additionally, the project supports rankings, tracking players' history, and employs a client-server architecture.
 
 ## Features
 
@@ -65,7 +65,8 @@ sudo apt install git
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/minhdo2207/Who_wants_to_be_a_millionare
+   cd ./home
+   git clone https://github.com/minhdo2207/Who_wants_to_be_a_millionare
    ```
 2. **Open QtCreator:**
    ```bash
