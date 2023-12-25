@@ -51,16 +51,6 @@ sudo apt update
 sudo apt install git
 ```
 
-## Usecase
-![usecase](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/usecase_diagram.png)
-## Class Diagram
-![classdiagram](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/ClassDiagram.png)
-## Finite state machine
-![classdiagram](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/Finite_state_machine.drawio.png)
-## Flow chart
-![flowchart](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/Flow-Chart.drawio.png)
-
-
 ## Getting Started
 
 1. **Clone the repository:**
@@ -74,6 +64,17 @@ sudo apt install git
    ```
 3. **Run the program**:
 Add the project files to QtCreator with the extension .pro at server and client to run.
+
+
+## Usecase
+![usecase](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/usecase_diagram.png)
+## Class Diagram
+![classdiagram](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/ClassDiagram.png)
+## Finite state machine
+![classdiagram](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/Finite_state_machine.drawio.png)
+## Flow chart
+![flowchart](https://github.com/minhdo2207/Who_wants_to_be_a_millionare/blob/main/diagram/Flow-Chart.drawio.png)
+
 
 ## Contributing
 
