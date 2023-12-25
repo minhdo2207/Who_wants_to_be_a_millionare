@@ -38,14 +38,14 @@
 
 ## Requirements
 
--Linux enviroment
--Qt framework installed
+-Linux enviroment.
+-Qt framework installed.
 ```bash
 sudo apt update
 sudo apt install qt5-default
 sudo apt install qtcreator
 ```
-- Git installed
+- Git installed.
 ```bash
 sudo apt update
 sudo apt install git
