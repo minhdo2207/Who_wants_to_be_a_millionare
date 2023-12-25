@@ -38,8 +38,8 @@
 
 ## Requirements
 
--Linux enviroment.
--Qt framework installed.
+- Linux enviroment
+- Qt framework installed
 ```bash
 sudo apt update
 sudo apt install qt5-default
@@ -81,6 +81,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## License
 
-This project is licensed under HUST license.
-Special thanks to Dr. Tran Nguyen Ngoc for tutoring us to have this project.
+- This project is licensed under HUST license.
+- Special thanks to Dr. Tran Nguyen Ngoc for tutoring us to have this project.
 
