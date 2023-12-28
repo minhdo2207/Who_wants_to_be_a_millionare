@@ -28,5 +28,6 @@ void HistoryScore::on_pushButton_clicked()
     hide();
     Home* d = new Home(this);
     d->client = this->client;
+    d->setUpUserData();
     d->show();
 }

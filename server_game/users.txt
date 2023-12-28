@@ -1,4 +1,10 @@
 user2,123,15,Silver
 admin,admin,0,Bronze
 tmp2,123,0,Bronze
-minhdt,123,0,Bronze
+trung,1,0,Bronze
+khanh,1,2,Bronze
+linh,1,21,Gold
+linhpham,123,0,Bronze
+linh,123,0,Bronze
+minh,123,0,Bronze
+duong,123,0,Bronze

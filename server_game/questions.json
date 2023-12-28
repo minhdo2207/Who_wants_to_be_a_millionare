@@ -10,48 +10,114 @@
         "correctAnswer": 1,
         "hard": 1
     },
-    {
-        "question": "What is your name 2?",
+{
+    "question": "What is the capital city of France?",
+    "answers": [
+        "A. Berlin",
+        "B. London",
+        "C. Paris",
+        "D. Rome"
+    ],
+    "correctAnswer": 3,
+    "hard": 1
+},
+{
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+        "A. Earth",
+        "B. Mars",
+        "C. Jupiter",
+        "D. Venus"
+    ],
+    "correctAnswer": 1,
+    "hard": 1
+},
+{
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+        "A. Charles Dickens",
+        "B. William Shakespeare",
+        "C. Jane Austen",
+        "D. Mark Twain"
+    ],
+    "correctAnswer": 2,
+    "hard": 2
+},
+{
+    "question": "What is the largest mammal in the world?",
+    "answers": [
+        "A. Elephant",
+        "B. Blue Whale",
+        "C. Giraffe",
+        "D. Gorilla"
+    ],
+    "correctAnswer": 1,
+    "hard": 2
+},
+{
+    "question": "In which year did the Titanic sink?",
+    "answers": [
+        "A. 1905",
+        "B. 1912",
+        "C. 1923",
+        "D. 1931"
+    ],
+    "correctAnswer": 2,
+    "hard": 1
+},
+{
+        "question": "Who is known as the 'Father of Computer Science'?",
         "answers": [
-            "BinhCN 2",
-            "HoangDT 2",
-            "DuyetVN 2",
-            "ChungOP 2"
+            "A. Alan Turing",
+            "B. Bill Gates",
+            "C. Steve Jobs",
+            "D. Mark Zuckerberg"
+        ],
+        "correctAnswer": 1,
+        "hard": 2
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "answers": [
+            "A. Sahara Desert",
+            "B. Gobi Desert",
+            "C. Antarctic Desert",
+            "D. Arctic Desert"
+        ],
+        "correctAnswer": 2,
+        "hard": 1
+    },
+    {
+        "question": "Who wrote 'The Great Gatsby'?",
+        "answers": [
+            "A. F. Scott Fitzgerald",
+            "B. Ernest Hemingway",
+            "C. Jane Austen",
+            "D. Charles Dickens"
+        ],
+        "correctAnswer": 4,
+        "hard": 2
+    },
+    {
+        "question": "In which year did World War II end?",
+        "answers": [
+            "A. 1943",
+            "B. 1945",
+            "C. 1947",
+            "D. 1950"
         ],
         "correctAnswer": 1,
         "hard": 1
     },
     {
-        "question": "What is your name 3?",
+        "question": "What is the capital city of Japan?",
         "answers": [
-            "BinhCN 3",
-            "HoangDT 3",
-            "DuyetVN 3",
-            "ChungOP 3"
+            "A. Beijing",
+            "B. Seoul",
+            "C. Tokyo",
+            "D. Bangkok"
         ],
-        "correctAnswer": 1,
-        "hard": 2
-    },
-    {
-        "question": "What is your name 4?",
-        "answers": [
-            "BinhCN 4",
-            "HoangDT 4",
-            "DuyetVN 4",
-            "ChungOP 4"
-        ],
-        "correctAnswer": 1,
-        "hard": 2
-    },
-    {
-        "question": "What is your name 5?",
-        "answers": [
-            "BinhCN 5",
-            "HoangDT 5",
-            "DuyetVN 5",
-            "ChungOP 5"
-        ],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "hard": 1
     }
 ]
