@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2023-12-22T16:56:54. -->
+<!-- Written by QtCreator 4.11.0, 2023-12-28T18:48:24. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -285,8 +285,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/client_game/client_game.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/client_game/client_game.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">client_game2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/Who_wants_to_be_a_millionare/client_game/client_game.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/Who_wants_to_be_a_millionare/client_game/client_game.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

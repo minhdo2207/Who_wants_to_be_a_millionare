@@ -20,6 +20,7 @@ void PvpDialog::on_pushButton_3_clicked()
     hide();
     Home* d = new Home(this);
     d->client = this->client;
+    d->setUpUserData();
     d->show();
 }
 

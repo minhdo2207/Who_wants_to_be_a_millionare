@@ -110,7 +110,7 @@ QVector<History> Client::getHistoryScore(){
 
 
 QString Client::waitForPvPRequest(){
-    socket->waitForReadyRead(30000);
+    socket->waitForReadyRead(300000);
     QByteArray data = socket->readAll();
     return QString(data);
 }

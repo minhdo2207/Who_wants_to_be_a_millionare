@@ -14,9 +14,10 @@
 
 #define PORT 8081
 
+// b doi nhung path nay thoi la dc
 #define _QUESTION_FILE  "/home/Who_wants_to_be_a_millionare/server_game/questions.json"
 #define _USER_FILE  "/home/Who_wants_to_be_a_millionare/server_game/users.txt"
-#define _HISTORY_PATH  "/home/Who_wants_to_be_a_millionare/server_game/"
+#define _HISTORY_PATH  "/home/Who_wants_to_be_a_millionare/server_game"
 
 class MyServer : public QObject
 {
